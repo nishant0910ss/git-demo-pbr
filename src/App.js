@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">        
         <p className='subHeading'>
-          Hey, this is Git Session & today is Tuesday 26th August. <br/>
+          Hey, this is Git Session & today is Tuesday 8th September. <br/>
           And it's a beautiful sunny Day.
         </p>
 
